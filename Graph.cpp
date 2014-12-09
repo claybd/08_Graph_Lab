@@ -1,9 +1,5 @@
-/*****
- * Author   : brinkmwj
- * Date     : 2009-11-06
- * Sources  : All code is original
- */
-#include "Graph.h"
+/* This program was written by Ben Clay.  It may be used without the author's consent for non-profit puproses only. */
+
 #include <string>
 #include <iostream>
 
