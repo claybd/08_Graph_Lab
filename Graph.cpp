@@ -2,6 +2,7 @@
 
 #include <string>
 #include <iostream>
+#include "Graph.h"
 
 Graph::Graph(unsigned int numNodes)
 {
